@@ -1,0 +1,462 @@
+[
+    {
+        "id": "deportivo-01",
+        "titulo": "Chevrolet Camaro",
+        "imagen": "./images/deportivos/01-camaro.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "deportivo-02",
+        "titulo": "Chevrolet Corvette",
+        "imagen": "./images/deportivos/02-chev-corvette.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 210000
+    },
+    {
+        "id": "deportivo-03",
+        "titulo": "Hiunday Genesis G70",
+        "imagen": "./images/deportivos/03-genesis-g70.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "deportivo-04",
+        "titulo": "Nissan GT-R",
+        "imagen": "./images/deportivos/04-nissan-gt-r.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 155000
+    },
+    {
+        "id": "deportivo-05",
+        "titulo": "Porsche 718 Cayman",
+        "imagen": "./images/deportivos/05-Porsche-718-Cayman.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 194000
+    },
+    {
+        "id": "deportivo-06",
+        "titulo": "F. Mustang Shelby GT-500",
+        "imagen": "./images/deportivos/06-shelby-gt500.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "deportivo-07",
+        "titulo": "Toyota 86",
+        "imagen": "./images/deportivos/07-toyota-86.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "deportivo-08",
+        "titulo": "Toyota Supra",
+        "imagen": "./images/deportivos/08-toyota-supra.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 145000
+    },
+    {
+        "id": "pick-up-01",
+        "titulo": "Ford F-150 Raptor",
+        "imagen": "./images/pick-ups/01-f-150-Raptor.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 143000
+    },
+    {
+        "id": "pick-up-02",
+        "titulo": "Chevrolet Silverado 2500",
+        "imagen": "./images/pick-ups/02-silverado-2500.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 162000
+    },
+    {
+        "id": "pick-up-03",
+        "titulo": "GMC Sierra 1500",
+        "imagen": "./images/pick-ups/03-gmc-sierra-1500-denali.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 138000
+    },
+    {
+        "id": "pick-up-04",
+        "titulo": "Bravus 800",
+        "imagen": "./images/pick-ups/04-bravus-800.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 102000
+    },
+    {
+        "id": "pick-up-05",
+        "titulo": "Ford F-450",
+        "imagen": "./images/pick-ups/05-ford-f-450.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 154000
+    },
+    {
+        "id": "pick-up-06",
+        "titulo": "Dodge RAM 2500",
+        "imagen": "./images/pick-ups/06-Ram-2500-Power.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 145000
+    },
+    {
+        "id": "pick-up-07",
+        "titulo": "Dodge RAM RTX",
+        "imagen": "./images/pick-ups/07-ram-trx.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 138000
+    },
+    {
+        "id": "pick-up-08",
+        "titulo": "Chevrolet Avalanche",
+        "imagen": "./images/pick-ups/08-Chevrolet-Avalanche.jpg",
+        "categoria": {
+            "nombre": "Pick-Ups",
+            "id": "pick-ups"
+        },
+        "precio": 104000
+    },
+    {
+        "id": "super-deportivo-01",
+        "titulo": "Bugatti Centodieci",
+        "imagen": "./images/super-deportivos/01-bugatti-centodieci.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 152000
+    },
+    {
+        "id": "super-deportivo-02",
+        "titulo": "Lamborghini Sian",
+        "imagen": "./images/super-deportivos/02-lamborghini-sian.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1245000
+    },
+    {
+        "id": "super-deportivo-03",
+        "titulo": "Bugatti Chiron",
+        "imagen": "./images/super-deportivos/03-bugatti-chiron.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 2310000
+    },
+    {
+        "id": "super-deportivo-04",
+        "titulo": "Bugatti Divo",
+        "imagen": "./images/super-deportivos/04-bugatti-divo.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1584000
+    },
+    {
+        "id": "super-deportivo-05",
+        "titulo": "Bugatti Mistral",
+        "imagen": "./images/super-deportivos/05-bugatti-mistral.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1357000
+    },
+    {
+        "id": "super-deportivo-06",
+        "titulo": "Ferrari 812 GTS",
+        "imagen": "./images/super-deportivos/06-Ferrari-812-GTS.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1211000
+    },
+    {
+        "id": "super-deportivo-07",
+        "titulo": "Ferrari SP48",
+        "imagen": "./images/super-deportivos/07-ferrari-sp48.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1945000
+    },
+    {
+        "id": "super-deportivo-08",
+        "titulo": "Ferrari SP51",
+        "imagen": "./images/super-deportivos/08-ferrari-sp51.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1298000
+    },
+    {
+        "id": "super-deportivo-09",
+        "titulo": "Ferrari Stallone",
+        "imagen": "./images/super-deportivos/09-ferrari-stallone.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 2754000
+    },
+    {
+        "id": "super-deportivo-10",
+        "titulo": "Lamborghini Veneno",
+        "imagen": "./images/super-deportivos/10-lamborghini-veneno.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 2386000
+    },
+    {
+        "id": "super-deportivo-11",
+        "titulo": "Pagani Imola",
+        "imagen": "./images/super-deportivos/11-pagani-imola.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1973000
+    },
+    {
+        "id": "super-deportivo-12",
+        "titulo": "Ferrari SF90",
+        "imagen": "./images/super-deportivos/12-ferrari-sf90.jpg",
+        "categoria": {
+            "nombre": "Super Deportivos",
+            "id": "super-deportivos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suv-01",
+        "titulo": "Jaguar Pace",
+        "imagen": "./images/suv/01-jaguar-pace.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 145000
+    },
+    {
+        "id": "suv-02",
+        "titulo": "Bentley Bentayga",
+        "imagen": "./images/suv/02-bentley-bentayga.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "suv-03",
+        "titulo": "Cadillac Escalade",
+        "imagen": "./images/suv/03-cadillac-escalade.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 225000
+    },
+    {
+        "id": "suv-04",
+        "titulo": "BMW-X6M",
+        "imagen": "./images/suv/04-BMW-X6M.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 128000
+    },
+    {
+        "id": "suv-05",
+        "titulo": "Maserati Levante",
+        "imagen": "./images/suv/05-Maserati-Levante.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 172000
+    },
+    {
+        "id": "suv-06",
+        "titulo": "Mercedez Maybach",
+        "imagen": "./images/suv/06-mercedez-maybach.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 204000
+    },
+    {
+        "id": "suv-07",
+        "titulo": "Bentley Innova",
+        "imagen": "./images/suv/07-bentley-innova.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 356000
+    },
+    {
+        "id": "suv-08",
+        "titulo": "Range Rover",
+        "imagen": "./images/suv/08-range-rover.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 185000
+    },
+    {
+        "id": "suv-09",
+        "titulo": "Seat Leon Cupra",
+        "imagen": "./images/suv/09-seat_leon_cupra.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 132000
+    },
+    {
+        "id": "suv-10",
+        "titulo": "Maserati Grecale",
+        "imagen": "./images/suv/10-maserati-grecale.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 254000
+    },
+    {
+        "id": "suv-11",
+        "titulo": "Ingram XUM7gt",
+        "imagen": "./images/suv/11-ingram-xum7gt.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "suv-12",
+        "titulo": "Jeep Wagoneer",
+        "imagen": "./images/suv/12-jeep-wagoneer.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 122000
+    },
+    {
+        "id": "suv-13",
+        "titulo": "Rolls Royce Avatar",
+        "imagen": "./images/suv/13-rolls-royce-avatar.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 547000
+    },
+    {
+        "id": "suv-14",
+        "titulo": "Rolls Royce Cullinan",
+        "imagen": "./images/suv/13-rolls-royce-cullinan.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 471000
+    },
+    {
+        "id": "suv-15",
+        "titulo": "Mercedes-EQ230",
+        "imagen": "./images/suv/14-mercedes-eq230.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 198000
+    },
+    {
+        "id": "suv-16",
+        "titulo": "Mercedez KLG250",
+        "imagen": "./images/suv/15-mercedez-kgl250.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 234000
+    },
+    {
+        "id": "suv-17",
+        "titulo": "Lotus E-lektre",
+        "imagen": "./images/suv/16-lotus-elektre.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 141000
+    },
+    {
+        "id": "suv-18",
+        "titulo": "Cadillac E-lecktra",
+        "imagen": "./images/suv/17-cadillac-e-lecktra.jpg",
+        "categoria": {
+            "nombre": "SUV",
+            "id": "suv"
+        },
+        "precio": 364000
+    }
+]

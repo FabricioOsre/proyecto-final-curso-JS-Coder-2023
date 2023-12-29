@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concesionaria LÁZARO B</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Concesionaria LÁZARO B</h1> 
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">Concesionaria LÁZARO B</h1>
+                <p class="parrafoHeader">La "B" es por Barato</p>
+            </header>
+            <img src="./images/lazaro2.jpg" class = "imagenLazaro" alt="Lazarito">
+            <nav>
+                <ul class="menu"> 
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active">Nuestros Vehículos</button> 
+                    </li>
+                    <li>
+                        <button id="deportivos" class="boton-menu boton-categoria">Deportivos</button>
+                    </li>
+                    <li>
+                        <button id="pick-ups" class="boton-menu boton-categoria">Pick-Ups</button>
+                    </li>
+                    <li>
+                        <button id="super-deportivos" class="boton-menu boton-categoria">Super-Deportivos</button>
+                    </li>
+                    <li>
+                        <button id="suv" class="boton-menu boton-categoria">SUV</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+                <div>
+                <input class="form-check-input" type="checkbox" id="SwitchDeColor">
+                <label class="form-check-label text-light" for="SwitchDeColor">Dark Mode</label>
+            </div>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 Concesionaria Lázaro B. & CFK Corporation</p>
+            </footer>
+        </aside>
+        <main class="main">
+            <h2 class="titulo-principal" id="titulo-principal">Todos Nuestros Vehículos</h2>
+            <div id="contenedor-autos" class="contenedor-autos">
+                <!-- Esta parte se va a completar cuando se cargue el archivo de javascript -->
+            </div>
+        </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./JavaScript/inicioDeSesion.js"></script>
+    <script src="./JavaScript/menu.js"></script>
+    <script src="./JavaScript/main.js"></script>
+    <script src="./JavaScript/switch-color.js"></script>
+</body>
+</html>
